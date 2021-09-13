@@ -1,0 +1,61 @@
+/* .main-container{
+    width: 70%;
+    margin: 40vh auto;
+
+}
+
+.sub-main-container{
+    background-color: silver;
+    padding: 10px;
+}
+
+.heading1{
+    font-weight: bold;
+    color: rgb(2, 12, 59)
+}
+
+
+.heading3{
+    font-style: italic;
+    color: maroon;
+}
+
+.para{
+    
+} */
+
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    width: 60%;
+    margin-left: 15%;
+    padding: 0.5% 5% 0 5%;
+    
+}
+
+.h3, .p{
+    font-size: 12px;
+    font-weight: normal;
+    color: black;    
+}
+
+.h1{
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.h1:hover{
+    text-decoration: underline;
+}
+
+.main-a{
+    text-decoration: none;
+}
+
+
+.p{
+    line-height: 1.7em;
+}
